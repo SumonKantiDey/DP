@@ -50,8 +50,8 @@ int main()
             k--;
         }
         int res = call(0,0);
-       printf("Case %d: %d\n",++cs,res);
-        }
+        printf("Case %d: %d\n",++cs,res);
+      }
       return 0;
 }
 
